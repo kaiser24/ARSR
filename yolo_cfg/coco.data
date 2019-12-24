@@ -1,0 +1,7 @@
+classes= 1
+train  = /home/pdi/darknet2/darknet2/ARSR/train.txt
+valid  = /home/pdi/darknet2/darknet2/ARSR/test.txt
+names = /home/pdi/darknet2/darknet2/ARSR/coco.names
+backup = /home/pdi/darknet2/darknet2/backup/
+
+

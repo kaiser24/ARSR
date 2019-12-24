@@ -1,0 +1,11 @@
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1126.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-236.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-398.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-717.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1268.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-401.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1005.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1540.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1240.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-1175.jpg
+/home/pdi/darknet2/darknet2/ARSR/dataset/VIRB0020-448.jpg
